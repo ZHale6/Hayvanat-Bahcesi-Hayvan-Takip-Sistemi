@@ -42,15 +42,15 @@ Proje ilişkisel bir veritabanı yapısına sahip olup en az 2 tablonun birbirin
 
 ### 1. Giriş Ekranı (`login.php`)
 Modern doğa temalı gradyan arka planı ve Bootstrap bileşenleriyle tasarlanmış güvenli giriş paneli.
-![Giriş Ekranı](login.jpg)
+![Giriş Ekranı](screenshots/login.jpg)
 
 ### 2. Yönetim Paneli & Listeleme (`index.php`)
 Barınaktaki canlıların listelendiği, işlem butonlarının ve durum rozetlerinin (badges) yer aldığı ana dashboard.
-![Yönetim Paneli](dashboard.png)
+![Yönetim Paneli](screenshots/dashboard.jpg)
 
 ### 3. Kayıt Güncelleme Ekranı (`edit.php`)
 Mevcut kayıtların `form-floating` yapısıyla kolayca düzenlenebildiği güncelleme arayüzü.
-![Kayıt Güncelleme](edit.png)
+![Kayıt Güncelleme](screenshots/edit.jpg)
 
 ---
 
