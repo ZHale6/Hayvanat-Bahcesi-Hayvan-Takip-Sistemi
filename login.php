@@ -26,7 +26,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Giriş Yap - Zoo Takip</title>
+    <title>Giriş Yap - Hale'nin Hayvanat Bahçesi Takip Sistemi</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <style>
@@ -72,7 +72,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                 <div class="card-body">
                     <div class="text-center mb-4">
                         <div class="display-5 text-success mb-2"><i class="bi bi-tree-fill"></i></div>
-                        <h3 class="fw-bold text-dark m-0">Zoo Takip Sistemi</h3>
+                        <h3 class="fw-bold text-dark m-0">Hale'nin Hayvanat Bahçesi Takip Sistemi</h3>
                         <small class="text-muted">Lütfen hesabınıza giriş yapın</small>
                     </div>
                     
